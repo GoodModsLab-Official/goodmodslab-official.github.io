@@ -6137,6 +6137,94 @@ a {
   border-radius: 4px;
   background-color: #fafafa;
 }
+.cid-tjRgo6EehF .mbr-text {
+  text-align: left;
+}
+.cid-tpH91wEEPp {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpHp3z8Xox {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tpHp3z8Xox .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tpHp3z8Xox .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tpHp3z8Xox .socicon-bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-tpHp3z8Xox .socicon-bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-tpHp3z8Xox .socicon-bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-tpHp3z8Xox .socicon-bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-tpHp3z8Xox .socicon-bg-vkontakte {
+  background: #4680C2;
+  color: #ffffff;
+}
+.cid-tpHp3z8Xox .socicon-bg-vkontakte:hover {
+  background: #3567a0;
+}
+.cid-tpHp3z8Xox .socicon-bg-odnoklassniki {
+  background: #ee8208;
+  color: #ffffff;
+}
+.cid-tpHp3z8Xox .socicon-bg-odnoklassniki:hover {
+  background: #bd6706;
+}
+.cid-tpHp3z8Xox .socicon-bg-pinterest {
+  background: #e60023;
+  color: #ffffff;
+}
+.cid-tpHp3z8Xox .socicon-bg-pinterest:hover {
+  background: #b3001b;
+}
+.cid-tpHp3z8Xox .socicon-bg-mail {
+  background: #005ff9;
+  color: #ffffff;
+}
+.cid-tpHp3z8Xox .socicon-bg-mail:hover {
+  background: #004cc6;
+}
+.cid-tpHp3z8Xox .btn-social {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+  border: none !important;
+}
+.cid-tpHp3z8Xox .btn-social i {
+  top: 0;
+  line-height: 55px;
+  width: 55px;
+}
+.cid-tpHp3z8Xox [class^="socicon-"]:before,
+.cid-tpHp3z8Xox [class*=" socicon-"]:before {
+  line-height: 55px;
+}
 .cid-thBiu9AWto {
   padding-top: 2rem;
   padding-bottom: 2rem;

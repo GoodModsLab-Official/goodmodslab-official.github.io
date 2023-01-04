@@ -4064,6 +4064,41 @@ a {
   font-size: 2rem;
   width: 1.6rem;
 }
+.cid-trXj1ecVzV {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-trXj1ecVzV .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-trXj1ecVzV .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-trXj1ecVzV ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-trXj1ecVzV li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-trXj1ecVzV ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #44c1a7;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
 .cid-thBiu9AWto {
   padding-top: 2rem;
   padding-bottom: 2rem;

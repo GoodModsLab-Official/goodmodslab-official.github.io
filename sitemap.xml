@@ -3,9 +3,6 @@
 		<loc>https://goodmodslab-official.github.io/index.html</loc>
 	</url>
 	<url>
-		<loc>https://goodmodslab-official.github.io/services.html</loc>
-	</url>
-	<url>
 		<loc>https://goodmodslab-official.github.io/GoodModsLab.html</loc>
 	</url>
 	<url>
@@ -21,18 +18,21 @@
 		<loc>https://goodmodslab-official.github.io/Documentation.html</loc>
 	</url>
 	<url>
-		<loc>https://goodmodslab-official.github.io/acacia.html</loc>
-	</url>
-	<url>
 		<loc>https://goodmodslab-official.github.io/blog.html</loc>
 	</url>
 	<url>
-		<loc>https://goodmodslab-official.github.io/branchsave.html</loc>
-	</url>
-	<url>
-		<loc>https://goodmodslab-official.github.io/saver_map.html</loc>
-	</url>
-	<url>
 		<loc>https://goodmodslab-official.github.io/KileAI.html</loc>
+	</url>
+	<url>
+		<loc>https://goodmodslab-official.github.io/SaverMap.html</loc>
+	</url>
+	<url>
+		<loc>https://goodmodslab-official.github.io/BranchSave.html</loc>
+	</url>
+	<url>
+		<loc>https://goodmodslab-official.github.io/Acacia.html</loc>
+	</url>
+	<url>
+		<loc>https://goodmodslab-official.github.io/Services.html</loc>
 	</url>
 </urlset>
